@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-icon: fas fa-info-circle
+icon: fa-solid fa-microchip
 order: 1
 permalink: /projects/
 ---
