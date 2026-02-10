@@ -38,7 +38,7 @@ social:
   email: elliottjbryniarski@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/elliottbryniarski # change to your GitHub homepage
     - https://www.linkedin.com/in/elliottbryniarski
     # Uncomment below to add more social links
     # - https://twitter.com/username
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-XKPB36YLB3
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
