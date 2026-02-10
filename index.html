@@ -3,6 +3,23 @@ layout: page
 title: home
 ---
 
-<a href="/assets/Elliott_Bryniarski_Resume.pdf" download="Elliott_Bryniarski_Resume.pdf" style="display:inline-block; padding:0.6rem 1.2rem; border:2px solid var(--link-color); border-radius:0.5rem; color:var(--link-color); font-weight:600; text-decoration:none;">
+<a href="/assets/Elliott_Bryniarski_Resume.pdf" download="Elliott_Bryniarski_Resume.pdf" class="resume-btn">
   Download My Resume (PDF)
 </a>
+
+<style>
+.resume-btn {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  border: 2px solid var(--link-color);
+  border-radius: 0.5rem;
+  color: var(--link-color);
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s, color 0.2s;
+}
+.resume-btn:hover {
+  background-color: var(--link-color);
+  color: var(--sidebar-bg);
+}
+</style>
